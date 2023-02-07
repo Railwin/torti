@@ -1,0 +1,15 @@
+C:\Users\railw\source\repos\tortiki 5 pract\bin\Debug\net6.0\tortiki 5 pract.exe
+C:\Users\railw\source\repos\tortiki 5 pract\bin\Debug\net6.0\tortiki 5 pract.deps.json
+C:\Users\railw\source\repos\tortiki 5 pract\bin\Debug\net6.0\tortiki 5 pract.runtimeconfig.json
+C:\Users\railw\source\repos\tortiki 5 pract\bin\Debug\net6.0\tortiki 5 pract.dll
+C:\Users\railw\source\repos\tortiki 5 pract\bin\Debug\net6.0\tortiki 5 pract.pdb
+C:\Users\railw\source\repos\tortiki 5 pract\obj\Debug\net6.0\tortiki 5 pract.csproj.AssemblyReference.cache
+C:\Users\railw\source\repos\tortiki 5 pract\obj\Debug\net6.0\tortiki 5 pract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\railw\source\repos\tortiki 5 pract\obj\Debug\net6.0\tortiki 5 pract.AssemblyInfoInputs.cache
+C:\Users\railw\source\repos\tortiki 5 pract\obj\Debug\net6.0\tortiki 5 pract.AssemblyInfo.cs
+C:\Users\railw\source\repos\tortiki 5 pract\obj\Debug\net6.0\tortiki 5 pract.csproj.CoreCompileInputs.cache
+C:\Users\railw\source\repos\tortiki 5 pract\obj\Debug\net6.0\tortiki 5 pract.dll
+C:\Users\railw\source\repos\tortiki 5 pract\obj\Debug\net6.0\refint\tortiki 5 pract.dll
+C:\Users\railw\source\repos\tortiki 5 pract\obj\Debug\net6.0\tortiki 5 pract.pdb
+C:\Users\railw\source\repos\tortiki 5 pract\obj\Debug\net6.0\tortiki 5 pract.genruntimeconfig.cache
+C:\Users\railw\source\repos\tortiki 5 pract\obj\Debug\net6.0\ref\tortiki 5 pract.dll
